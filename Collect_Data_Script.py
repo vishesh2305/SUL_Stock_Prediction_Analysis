@@ -6,7 +6,9 @@ import os
 # tickers = ["SUNPHARMA.NS", "DRREDDY.NS", "CIPLA.NS"]
 # tickers = ["INFY.NS", "TCS.NS", "WIPRO.NS"]
 
-target_Dir = "Data\Banking_Data"
+tickers = ["NESTLEIND.NS"]
+
+target_Dir = "Data/nestle"
 
 
 if not os.path.exists(target_Dir):
